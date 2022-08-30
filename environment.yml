@@ -1,8 +1,6 @@
 name: euroscipy-2022-jupyterlite-emscripten-forge
-
 channels:
 - conda-forge
-
 dependencies:
 - python=3.10
 - mamba
@@ -10,7 +8,7 @@ dependencies:
 - myst-parser
 - empack
 - bqplot==0.12.34
-- ipycanvas==0.9.1
+- ipycanvas==0.13.0
 - ipyevents==2.0.1
 - ipydatagrid==1.1.12
 - ipyleaflet==0.17.1
