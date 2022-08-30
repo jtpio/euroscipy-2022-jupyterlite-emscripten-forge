@@ -22,7 +22,7 @@ dependencies:
 - jupyterlab-tour==3.1.4
 - jupyterlab-night
 - plotly==5.10.0
-- sympy==1.11
+- sympy==1.9
 - pip:
   - jupyterlite-sphinx==0.7.1
   - jupyterlite-xeus-python==0.5.5

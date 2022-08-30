@@ -15,7 +15,7 @@
             "numpy==1.23.2",
             "ipywidgets==7.7",
             "pandas==1.4.3",
-            "sympy==1.11",
+            "sympy==1.9",
             "vega_datasets==0.9.0"
         ]
     }
