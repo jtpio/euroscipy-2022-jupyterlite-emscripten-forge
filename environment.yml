@@ -1,0 +1,32 @@
+name: scipy-2022-jupyterlite-poster
+
+channels:
+- conda-forge
+
+dependencies:
+- python=3.10
+- mamba
+- pydata-sphinx-theme
+- myst-parser
+- empack
+- bqplot
+- ipycanvas >=0.9.1
+- ipyevents >=2.0.1
+- ipydatagrid >=1.1.12, <2
+- ipyleaflet
+- ipympl>=0.8.2
+- ipywidgets>=7.7,<8
+- jupyterlab>=3.4.3,<4
+- jupyterlab-language-pack-fr-FR
+- jupyterlab-language-pack-zh-CN
+- jupyterlab-fasta>=3,<4
+- jupyterlab-geojson>=3,<4
+- jupyterlab-tour
+- jupyterlab-night
+- plotly>=5,<6
+- sympy
+- pip:
+  - jupyterlite-sphinx
+  - jupyterlite-xeus-python>=0.5
+  - jupyterlite==0.1.0b11
+  - jupyterlite-xeus-sqlite==0.2.1
