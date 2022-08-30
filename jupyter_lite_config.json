@@ -5,15 +5,15 @@
     "XeusPythonEnv": {
         "packages": [
             "altair==4.2.0",
-            "bqplot==0.12.34",
+            "bqplot==0.12.33",
             "ipydatagrid==1.1.12",
-            "ipycanvas==0.13.0",
-            "ipympl=0.8.2",
-            "ipyleaflet==0.17.1",
+            "ipycanvas==0.12.0",
+            "ipympl=0.9.1",
+            "ipyleaflet==0.17.0",
             "matplotlib==3.5.2",
             "plotly==5.10.0",
             "numpy==1.21.4",
-            "ipywidgets==7.7",
+            "ipywidgets==7.7.2",
             "pandas==1.4.3",
             "sympy==1.9",
             "vega_datasets==0.9.0"
