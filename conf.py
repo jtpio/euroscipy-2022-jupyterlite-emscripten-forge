@@ -12,8 +12,8 @@ master_doc = 'README'
 source_suffix = '.md'
 
 # General information about the project.
-project = 'SciPy 2022 Jupyterlite Virtual Poster'
-author = 'Jeremy Tuloup'
+project = 'EuroSciPy 2022 - Interactive Data Science in the browser with JupyterLite and Emscripten Forge'
+author = 'Jeremy Tuloup - Martin Renou - Thorsten Beier'
 
 exclude_patterns = []
 highlight_language = 'python'

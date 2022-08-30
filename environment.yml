@@ -1,4 +1,4 @@
-name: scipy-2022-jupyterlite-poster
+name: euroscipy-2022-jupyterlite-emscripten-forge
 
 channels:
 - conda-forge

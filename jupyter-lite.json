@@ -1,7 +1,7 @@
 {
     "jupyter-lite-schema-version": 0,
     "jupyter-config-data": {
-      "appName": "SciPy 2022 JupyterLite Virtual Poster",
+      "appName": "EuroSciPy 2022 - Interactive Data Science in the browser with JupyterLite and Emscripten Forge",
       "disabledExtensions": [
         "@jupyterlite/javascript-kernel-extension",
         "@jupyterlite/pyolite-kernel-extension"

@@ -10,7 +10,7 @@ JupyterLite is a JupyterLab distribution that runs entirely in the web browser, 
 
 Since JupyterLite can be deployed as a fully static website, it is very easy to use it in a web browser:
 
-➡️ **[https://scipy-2022-jupyterlite-virtual-poster.readthedocs.io/en/latest/lite/lab/index.html?path=intro.ipynb](https://scipy-2022-jupyterlite-virtual-poster.readthedocs.io/en/latest/lite/lab/index.html?path=intro.ipynb)**
+➡️ **[https://euroscipy-2022-jupyterlite-emscripten-forge.readthedocs.io/en/latest/lite/lab/index.html?path=intro.ipynb](https://euroscipy-2022-jupyterlite-emscripten-forge.readthedocs.io/en/latest/lite/lab/index.html?path=intro.ipynb)**
 
 
 ## Interactive documentation made easy
