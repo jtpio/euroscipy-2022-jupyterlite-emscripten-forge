@@ -1,6 +1,6 @@
 # EuroSciPy 2022 - Interactive Data Science in the browser with JupyterLite and Emscripten Forge
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge-launch.svg)](https://euroscipy-2022-jupyterlite-emscripten-forge.readthedocs.io/en/latest/lite/lab/index.html?path=intro.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge-launch.svg)](https://euroscipy-2022-jupyterlite-emscripten-forge.readthedocs.io/en/latest/lite/lab/index.html?path=presentation.ipynb)
 
 JupyterLite is a JupyterLab distribution that runs entirely in the web browser, backed by in-browser language kernels.
 
@@ -10,7 +10,7 @@ JupyterLite is a JupyterLab distribution that runs entirely in the web browser, 
 
 Since JupyterLite can be deployed as a fully static website, it is very easy to use it in a web browser:
 
-➡️ **[https://euroscipy-2022-jupyterlite-emscripten-forge.readthedocs.io/en/latest/lite/lab/index.html?path=intro.ipynb](https://euroscipy-2022-jupyterlite-emscripten-forge.readthedocs.io/en/latest/lite/lab/index.html?path=intro.ipynb)**
+➡️ **[https://euroscipy-2022-jupyterlite-emscripten-forge.readthedocs.io/en/latest/lite/lab/index.html?path=presentation.ipynb](https://euroscipy-2022-jupyterlite-emscripten-forge.readthedocs.io/en/latest/lite/lab/index.html?path=presentation.ipynb)**
 
 
 ## Interactive documentation made easy
