@@ -26,7 +26,7 @@ dependencies:
 - plotly==5.10.0
 - sympy==1.9
 - pip:
-  - jupyterlite-sphinx==0.7.1
+  - jupyterlite-sphinx==0.6.0
   - jupyterlite-xeus-python==0.5.5
   - jupyterlite==0.1.0b12
   - jupyterlite-xeus-sqlite==0.2.1
